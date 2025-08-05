@@ -1,0 +1,13 @@
+# User-specific files
+UserSettings/
+
+# Build results
+[Bb]uild/
+[Bb]uilds/
+[Ll]ibrary/
+[Ll]og/
+
+# User-specific files
+.idea/
+.vs/
+.vscode/
